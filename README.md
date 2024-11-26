@@ -21,7 +21,7 @@ Feel free to explore and experiment with the projects to gain insights or adapt 
 ## 🛠️ Technologies Used
 
 This repository includes projects developed using various tools and frameworks such as:  
-- **Programming Languages**: Python, R  
+- **Programming Languages**: Python  
 - **Libraries/Frameworks**: TensorFlow, PyTorch, Scikit-learn  
 - **Visualization Tools**: Matplotlib, Seaborn, Plotly  
 - **Others**: NumPy, Pandas, OpenCV, and more  
